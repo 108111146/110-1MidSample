@@ -11,7 +11,7 @@ namespace _110_1MidSample
 {
 
 
-    public partial class Sample1Com
+    public partial class WebForm1
     {
 
         /// <summary>
@@ -24,12 +24,12 @@ namespace _110_1MidSample
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// lb_Msg 控制項。
+        /// btn_Submit 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lb_Msg;
+        protected global::System.Web.UI.WebControls.Button btn_Submit;
     }
 }
